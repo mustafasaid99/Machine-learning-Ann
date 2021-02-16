@@ -2,5 +2,5 @@
 Machine learning Algorithms and Ann Model development.
 
 Developing and estimating models using various classical machine algorithms.
-Predict operations with the ann model.
+Estimating transactions with the Ann model.
 Show results with charts.
