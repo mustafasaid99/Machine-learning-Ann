@@ -3,8 +3,8 @@
 
 -Developing and predicting models using various classical machine algorithms. <br>
 -Estimating transactions with the Ann model.
-<br/>
-Interface example <br/>
+
+Interface example <br/><br/>
 ![makine](https://user-images.githubusercontent.com/60323250/110012937-20610c80-7d32-11eb-908a-42d6ab76a030.png)
 
 <br/>Interface example2 <br/>
